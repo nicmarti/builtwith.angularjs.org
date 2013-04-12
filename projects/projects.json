@@ -1507,6 +1507,27 @@
         "Mobile",
         "jQuery"
       ]
-    }
+    },
+    {
+      "name": "Zaptravel",
+      "thumb": "zaptravel/thumb.png", 
+      "desc": "Zaptravel connects you to great inspiring travel deals based on what you want to experience.",
+      "url": "http://www.zaptravel.com/", 
+      "info": "http://www.zaptravel.com/", 
+      "submitter": "nicmarti", 
+      "submissionDate": "2013-04-12", 
+        "tags": [
+          "Production", 
+          "Travel", 
+          "jQuery",
+          "CSS3",
+          "PlayFramework",
+          "Redis",
+          "Booking",
+          "Startups",
+          "Responsive",
+          "HTML5"
+        ]
+  }
   ]
 }
